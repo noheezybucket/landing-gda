@@ -1,7 +1,7 @@
 import Accueil from "./components/Accueil";
 export default function App() {
   return (
-    <div className="bg-background font-first">
+    <div className="bg-background font-first outline">
       <Accueil />
     </div>
   );

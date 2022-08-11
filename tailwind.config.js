@@ -12,6 +12,10 @@ module.exports = {
         gradient1: "#1b9aaa",
         gradient2: "#f2f8f0",
         gradient3: "#210124",
+        gradient4: "rgba(33, 1, 36, 0.47)",
+        gradient5: "rgba(33, 1, 36, 0)",
+        gradient6: "rgba(1, 36, 7, 0.47)",
+        gradient7: "rgba(10, 36, 1, 0)",
       },
       fontFamily: {
         first: ["Exo"],
